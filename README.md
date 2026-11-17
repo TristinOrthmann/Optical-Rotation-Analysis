@@ -5,8 +5,6 @@ rotation angle from a sequence of JPG images.
 
 ## Run It
 
-Double-click `run_analysis.command`, or open Terminal in this folder and run:
-
 ```bash
 python3 optical_rotation.py
 ```
