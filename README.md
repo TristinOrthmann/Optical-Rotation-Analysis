@@ -3,11 +3,29 @@
 This project is a single Python application for estimating a crystal's optical
 rotation angle from a sequence of JPG images.
 
-## Run It
+## Requirements
 
-```bash
-python3 optical_rotation.py
-```
+- Python 3.10+
+- NumPy
+- Pillow
+- Matplotlib
+- Tkinter
+
+## Installation
+
+Install the required packages:
+
+    python -m pip install -r requirements.txt
+
+On some systems, you may need to use `python3` instead of `python`.
+
+## Running
+
+    python optical_rotation.py
+
+## Compatibility
+
+Designed for Windows, macOS, and Linux.
 
 ## Use It
 
